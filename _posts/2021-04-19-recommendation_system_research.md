@@ -9,7 +9,6 @@ mathjax: "true"
 ---
 
 # Description
-
 Abstract and Poster for researching the current state of recommendations systems.
 
 ## GitHub Repository

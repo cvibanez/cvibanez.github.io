@@ -9,7 +9,6 @@ mathjax: "true"
 ---
 
 # Description
-
 Analysis of different variables affecting home prices using Redfin data.
 
 ## GitHub Repository
