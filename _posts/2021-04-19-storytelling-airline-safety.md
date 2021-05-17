@@ -3,7 +3,7 @@ title: "Storytelling of Airline Safety"
 date: 2021-04-19
 tags: [data science]
 header:
-  image: "/images/conrad/airlines.png"
+  image: "/images/conrad/airlines_img.png"
   img_style: "width:960px;height:220px;"
 excerpt: ""
 mathjax: "true"
