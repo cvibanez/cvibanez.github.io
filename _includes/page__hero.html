@@ -5,7 +5,10 @@
 {% endif %}
 
 {% if page.header.img_style %}
-  {% capture img_style %}{{ page.header.img_style }}{% endcapture %}
+  {% assign img_style = page.header.img_style %}
+{% else %}
+  {% assign img_style = "" %}
+{% endif %}
 
 {% if page.header.cta_url contains "://" %}
   {% capture cta_path %}{{ page.header.cta_url }}{% endcapture %}
