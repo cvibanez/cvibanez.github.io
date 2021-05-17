@@ -4,7 +4,7 @@ date: 2021-04-19
 tags: [data science]
 header:
   image: "/images/conrad/airlines.png"
-  img_style: "width:960px;height:480px;"
+  img_style: "width:960px;height:220px;"
 excerpt: ""
 mathjax: "true"
 ---
