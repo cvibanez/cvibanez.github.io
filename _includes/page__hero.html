@@ -4,6 +4,9 @@
   {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
 {% endif %}
 
+{% if page.header.img_style %}
+  {% assign img_style = page.header.img_style %}
+
 {% if page.header.cta_url contains "://" %}
   {% capture cta_path %}{{ page.header.cta_url }}{% endcapture %}
 {% else %}
