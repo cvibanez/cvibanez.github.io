@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/banner_data.jpg"
+  image: "/images/conrad/banner_data.jpg"
 ---
 
 Hello.  I'm an aspiring data scientist who is currently a Lead Experience Manager for a large telecommunications company.  I have an extensive background in IT, specifically in web application development, Quality Assurance Testing, User Acceptance Testing, Performance Optimization, and Production Support.
