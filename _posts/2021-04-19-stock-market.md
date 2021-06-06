@@ -3,7 +3,7 @@ title: "Data Preparation using Stock Market Data"
 date: 2021-04-19
 tags: [data science]
 header:
-  image: "/images/conrad/wallstreetjpg"
+  image: "/images/conrad/wallstreet.jpg"
   img_style: "width:500px;height:334px;"
 excerpt: ""
 mathjax: "true"
