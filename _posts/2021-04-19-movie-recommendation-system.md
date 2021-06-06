@@ -13,5 +13,5 @@ mathjax: "true"
 Implementing a movie recommendation system.
 
 ## GitHub Repository
-<a href="https://github.com/cvibanez/MovieRecommendationSystem">https://github.com/cvibanez/MovieRecommendationSystem/a>
+<a href="https://github.com/cvibanez/MovieRecommendationSystem">https://github.com/cvibanez/MovieRecommendationSystem</a>
 
