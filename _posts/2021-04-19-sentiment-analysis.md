@@ -3,7 +3,8 @@ title: "Twitter Sentiment Analysis"
 date: 2021-04-19
 tags: [data science]
 header:
-  image: "/images/conrad/sentiment.jpg"
+  image: "/images/conrad/twitter.jpg"
+  img_style: "width:500px;height:375px;"
 excerpt: ""
 mathjax: "true"
 ---
