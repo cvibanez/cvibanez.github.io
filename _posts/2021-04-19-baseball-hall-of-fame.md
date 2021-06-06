@@ -13,4 +13,4 @@ mathjax: "true"
 Understanding the relationship of offensive statistics and player election to Major League Baseball Hall of Fame.
 
 ## GitHub Repository
-<a href="https://github.com/cvibanez/BaseballPerformanceRelationshipsToHallofFame">https://github.com/cvibanez/BaseballPerformanceRelationshipsToHallofFamehttps://github.com/cvibanez/CovidData</a>
+<a href="https://github.com/cvibanez/BaseballPerformanceRelationshipsToHallofFame">https://github.com/cvibanez/BaseballPerformanceRelationshipsToHallofFame</a>
