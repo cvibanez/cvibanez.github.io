@@ -3,7 +3,8 @@ title: "Direct Marketing"
 date: 2021-04-19
 tags: [data science]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/conrad/marketing.jpg"
+  img_style: "width:500px;height:375px;"
 excerpt: ""
 mathjax: "true"
 ---
@@ -12,4 +13,4 @@ mathjax: "true"
 Applying Predictive Analytics for Direct Marketing
 
 ## GitHub Repository
-https://github.com/cvibanez/DirectMarketing
+<a href="https://github.com/cvibanez/DirectMarketing">https://github.com/cvibanez/DirectMarketing</a>
