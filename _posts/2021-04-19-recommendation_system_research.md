@@ -4,7 +4,7 @@ date: 2021-04-19
 tags: [data science]
 header:
   image: "/images/conrad/recommendation.jpg"
-  img_style: "width:500px;height:716px;"
+  img_style: "width:212px;height:303px;"
 excerpt: ""
 mathjax: "true"
 ---
